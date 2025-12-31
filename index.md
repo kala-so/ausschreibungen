@@ -11,7 +11,7 @@ Klicke auf einen Bereich, um Inhalte anzuzeigen.
 <details>
 <summary><h2>📡 10 – Kommunikation</h2></summary>
 
-[//]: # ({% include 10_kommunikation.md %})
+{% include 10_kommunikation.md %}
 
 </details>
 
