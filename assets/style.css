@@ -65,18 +65,13 @@ summary {
 }
 
 /* arrow replacement */
-summary::-webkit-details-marker { display: none; }
-summary::before {
-    content: "▸";
-    margin-right: 12px;
-    font-size: 1.7rem;
-    transition: 0.2s;
-    color: #A32C75; /* arrow matches summary */
+/*summary::-webkit-details-marker { display: none; }*/
+/*summary::before {*/
+/*    content: none; !* remove the ▸ symbol *!*/
+/*}*/
+summary:hover {
+    color: #ED70C0; /* soft pink on hover */
 }
-details[open] summary::before {
-    content: "▾";
-}
-
 /* ---------- INSIDE CONTENT ---------- */
 .content {
     margin-top: 15px;

@@ -5,10 +5,9 @@ title: KaLa Ressorts
 
 Klicke auf einen Bereich, um Inhalte anzuzeigen.
 
----
 
 <details>
-<summary><b>📡 10 – Kommunikation</b></summary>
+<summary><b>📡 KOMMUNIKATION</b></summary>
 
 <div class="content">
 {% capture kommunikation %}{% include 10_kommunikation.md %}{% endcapture %}
@@ -16,44 +15,37 @@ Klicke auf einen Bereich, um Inhalte anzuzeigen.
 </div>
 </details>
 
----
-
 <details>
-<summary><b>⛑️ 20 – Sanität & Sicherheit</b></summary>
+<summary><b>⛑️ SANITÄT & SICHERHEIT</b></summary>
 
 
 </details>
 
----
 
 <details>
-<summary><b>🎯 30 – Programm</b></summary>
+<summary><b>🎯 PROGRAMM</b></summary>
 
 
 </details>
 
----
 
 <details>
-<summary><b>🚚 40 – Logistik</b></summary>
+<summary><b>🚚 LOGISTIK</b></summary>
 
 
 </details>
 
----
 
 <details>
-<summary><b>🌟 50 – Staff & Einheiten</b></summary>
+<summary><b>🌟 STAFF & EINHEITEN</b></summary>
 
 
 </details>
 
----
 
 <details>
-<summary><b>💰 60 – Finanzen</b></summary>
+<summary><b>💰 FINANZEN</b></summary>
 
 
 </details>
 
----
