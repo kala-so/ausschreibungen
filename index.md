@@ -9,7 +9,7 @@ Klicke auf einen Bereich, um Inhalte anzuzeigen.
 ---
 
 <details>
-<summary>📡 **10 – Kommunikation**</summary>
+<summary><h3>📡 10 – Kommunikation</h3></summary>
 
 <div class="content">
 {% capture kommunikation %}{% include 10_kommunikation.md %}{% endcapture %}
