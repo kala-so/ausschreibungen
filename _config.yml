@@ -1,0 +1,23 @@
+title: "Kantonslager Solothurn – Ausschreibungen"
+description: "Ressorts, Verantwortungen & Rollen"
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+permalink: /:title/
+
+# (optional) navigation links for top menu
+nav_links:
+  - name: Home
+    link: /
+  - name: Kommunikation
+    link: /10_kommunikation
+  - name: Sanität & Sicherheit
+    link: /20_sanitaet_sicherheit
+  - name: Programm
+    link: /30_programm
+  - name: Logistik
+    link: /40_logistik
+  - name: Staff & Einheiten
+    link: /50_staff_einheiten
+  - name: Finanzen
+    link: /60_finanzen
