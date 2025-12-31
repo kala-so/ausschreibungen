@@ -1,5 +1,3 @@
-# 📡 10 – Kommunikation
-
 ## Medien
 
 ### Aufgaben

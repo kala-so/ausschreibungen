@@ -1,46 +1,107 @@
+/* ---------- GENERAL ---------- */
 body {
-    font-family: system-ui, sans-serif;
-    background:#f4f7fa;
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    background: #eef4ef url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Green_forest_background.jpg/640px-Green_forest_background.jpg') no-repeat center fixed;
+    background-size: cover;
     margin:0;
+    color:#1F3B2C;
 }
 
+/* Overlay to soften background */
+body::before {
+    content:"";
+    position:fixed;
+    top:0; left:0; right:0; bottom:0;
+    background:rgba(255,255,255,0.70);
+    z-index:-1;
+}
+
+/* ---------- HEADER ---------- */
 header {
-    background:#275a36;
-    color:white;
     text-align:center;
-    padding:25px 0;
+    padding:35px 0;
+    background:#365b38;
+    color:white;
+    border-bottom:6px solid #2b472b;
 }
 
+header h1 {
+    margin-bottom:8px;
+    font-size:2.2rem;
+}
+
+header p {
+    opacity:0.85;
+}
+
+/* ---------- MAIN CONTENT ---------- */
 main {
-    width:70%;
+    width:80%;
     max-width:900px;
     margin:40px auto;
 }
 
+/* ---------- COLLAPSIBLE BOXES ---------- */
 details {
-    background:white;
-    border-radius:8px;
-    margin-bottom:12px;
-    padding:15px;
-    border:1px solid #dcdcdc;
+    background:#ffffffee;
+    border-radius:10px;
+    margin-bottom:18px;
+    padding:20px;
+    border:2px solid #d8e5d2;
+    box-shadow:0 2px 6px rgba(0,0,0,0.05);
+    backdrop-filter: blur(3px);
+    transition:0.3s;
 }
 
+details:hover {
+    transform:scale(1.01);
+}
+
+/* clickable header area */
 summary {
-    font-size:18px;
+    font-size:20px;
+    font-weight:600;
     cursor:pointer;
+    list-style:none;
+    color:#2e4c2c;
 }
 
-details summary:hover {
-    color:#275a36;
+/* remove default arrow so we style our own */
+summary::-webkit-details-marker { display:none; }
+
+summary::before {
+    content:"▶ ";
+    color:#3e6b3e;
+    font-weight:bold;
+    transition:0.3s;
 }
 
+/* rotate arrow when open */
+details[open] summary::before {
+    content:"▼ ";
+}
+
+/* inside markdown content */
 .content {
-    padding:15px 5px 5px 5px;
+    margin-top:12px;
+    border-left:4px solid #3e6b3e;
+    padding-left:15px;
 }
 
+.content h2, .content h3 {
+    color:#204b2a;
+    margin-top:10px;
+}
+
+.content ul li {
+    margin-bottom:6px;
+}
+
+/* ---------- FOOTER ---------- */
 footer {
     text-align:center;
-    margin:50px 0 20px;
-    opacity:0.6;
+    color:#1F3B2C;
+    margin:60px 0 20px;
     font-size:14px;
+    opacity:0.8;
 }
