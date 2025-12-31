@@ -7,8 +7,17 @@ title: KaLa Ressorts
 
 Willkommen! Wähle einen Bereich:
 
-## 📡 Kommunikation
-➡ [10 Kommunikation](10_kommunikation)
+<details>
+<summary>📡 <strong>10 – Kommunikation</strong></summary>
+
+### Kommunikationsleitung
+- Interne & externe Kommunikation
+- Social Media & PR
+- Teamleitung
+
+➡ [Mehr Details](10_kommunikation)
+
+</details>
 
 ## ⛑ Sanität & Sicherheit
 ➡ [20 Sanität & Sicherheit](20_sanitaet_sicherheit)
