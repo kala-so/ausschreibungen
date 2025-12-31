@@ -3,13 +3,13 @@ body {
     font-family: 'Poppins', sans-serif;
     background: #F3F5F2; /* light neutral background */
     margin: 0;
-    color: #354935; /* primary text color */
+    color: #354935; /* default text for light background */
 }
 
 /* ---------- HEADER ---------- */
 header {
     background: #354935; /* deep green header */
-    color: #ED70C0; /* soft pink text for contrast */
+    color: white; /* text on dark background is white */
     text-align: center;
     padding: 50px 0 40px;
 }
@@ -20,14 +20,14 @@ header h1 {
     margin-bottom: 10px;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #ED70C0; /* soft pink title */
+    color: white; /* title white */
 }
 
 header p {
     font-size: 1.15rem;
     opacity: 0.9;
     font-weight: 300;
-    color: #F3F5F2; /* subtle light text */
+    color: white; /* paragraph white */
 }
 
 /* ---------- MAIN CONTENT ---------- */
@@ -39,13 +39,14 @@ main {
 
 /* ---------- COLLAPSIBLE CARDS ---------- */
 details {
-    background: white;
+    background: white; /* light background */
     border-radius: 18px;
     padding: 22px 28px;
     margin-bottom: 25px;
-    border-left: 10px solid #A32C75; /* magenta accent for cards */
+    border-left: 10px solid #A32C75; /* magenta accent */
     box-shadow: 0 4px 12px rgba(0,0,0,0.06);
     transition: 0.3s ease;
+    color: #354935; /* text color on white */
 }
 
 details:hover {
@@ -60,7 +61,7 @@ summary {
     cursor: pointer;
     display: flex;
     align-items: center;
-    color: #354935; /* primary text */
+    color: #A32C75; /* magenta summary title on white card */
 }
 
 /* arrow replacement */
@@ -70,6 +71,7 @@ summary::before {
     margin-right: 12px;
     font-size: 1.7rem;
     transition: 0.2s;
+    color: #A32C75; /* arrow matches summary */
 }
 details[open] summary::before {
     content: "▾";
@@ -80,13 +82,13 @@ details[open] summary::before {
     margin-top: 15px;
     font-size: 1rem;
     line-height: 1.55;
-    color: #354935; /* primary text */
+    color: #354935; /* text on white card */
 }
 
 .content h2,
 .content h3 {
     font-family: 'Lilita One', cursive;
-    color: #A32C75; /* magenta for subheadings */
+    color: #A32C75; /* magenta headings on white card */
     margin-top: 16px;
     margin-bottom: 8px;
     font-size: 1.5rem;
@@ -99,7 +101,7 @@ details[open] summary::before {
 
 /* ---------- HIGHLIGHTS ---------- */
 .highlight {
-    color: #ED70C0; /* soft pink highlights */
+    color: #ED70C0; /* pink highlights on white background */
     font-weight: 600;
 }
 
@@ -108,5 +110,5 @@ footer {
     text-align: center;
     font-size: 0.9rem;
     padding: 40px 0;
-    color: #354935;
+    color: #354935; /* footer on light background */
 }
