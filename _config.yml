@@ -2,10 +2,13 @@ title: "Kantonslager Solothurn – Ausschreibungen"
 description: "Ressorts, Verantwortungen & Rollen"
 theme: jekyll-theme-cayman
 markdown: kramdown
+
 kramdown:
   input: GFM
-sass:
-  style: compressed
+  hard_wrap: false
 
 include:
-  - assets
+  - _includes
+
+sass:
+  style: compressed

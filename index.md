@@ -9,10 +9,12 @@ Klicke auf einen Bereich, um Inhalte anzuzeigen.
 ---
 
 <details>
-<summary><h2>📡 10 – Kommunikation</h2></summary>
+<summary>📡 **10 – Kommunikation**</summary>
 
-{% include 10_kommunikation.md %}
-
+<div class="content">
+{% capture kommunikation %}{% include 10_kommunikation.md %}{% endcapture %}
+{{ kommunikation | markdownify }}
+</div>
 </details>
 
 ---
