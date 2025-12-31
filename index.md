@@ -4,36 +4,60 @@ title: KaLa Ressorts
 ---
 
 # 🏕 Kantonslager Solothurn – Ausschreibungen
-
-Willkommen! Wähle einen Bereich:
-
-<details>
-<summary>📡 <strong>10 – Kommunikation</strong></summary>
-
-### Kommunikationsleitung
-- Interne & externe Kommunikation
-- Social Media & PR
-- Teamleitung
-
-➡ [Mehr Details](10_kommunikation)
-
-</details>
-
-## ⛑ Sanität & Sicherheit
-➡ [20 Sanität & Sicherheit](20_sanitaet_sicherheit)
-
-## 🎯 Programm
-➡ [30 Programm](30_programm)
-
-## 🚚 Logistik
-➡ [40 Logistik](40_logistik)
-
-## 🌟 Staff & Einheiten
-➡ [50 Staff & Einheiten](50_staff_einheiten)
-
-## 💰 Finanzen
-➡ [60 Finanzen](60_finanzen)
+Klicke auf einen Bereich, um Inhalte anzuzeigen.
 
 ---
 
-📌 *Alle Inhalte können über Markdown-Dateien einfach bearbeitet werden.*
+<details>
+<summary><h2>📡 10 – Kommunikation</h2></summary>
+
+{% include 10_kommunikation.md %}
+
+</details>
+
+---
+
+<details>
+<summary><h2>⛑️ 20 – Sanität & Sicherheit</h2></summary>
+
+{% include 20_sanitaet_sicherheit.md %}
+
+</details>
+
+---
+
+<details>
+<summary><h2>🎯 30 – Programm</h2></summary>
+
+{% include 30_programm.md %}
+
+</details>
+
+---
+
+<details>
+<summary><h2>🚚 40 – Logistik</h2></summary>
+
+{% include 40_logistik.md %}
+
+</details>
+
+---
+
+<details>
+<summary><h2>🌟 50 – Staff & Einheiten</h2></summary>
+
+{% include 50_staff_einheiten.md %}
+
+</details>
+
+---
+
+<details>
+<summary><h2>💰 60 – Finanzen</h2></summary>
+
+{% include 60_finanzen.md %}
+
+</details>
+
+---

@@ -1,0 +1,19 @@
+details summary {
+    cursor:pointer;
+    padding:10px;
+    background:#2c5f2d;
+    color:white;
+    border-radius:6px;
+    margin:5px 0;
+}
+
+details summary:hover {
+    background:#34502a;
+}
+
+details {
+    background:white;
+    border-radius:6px;
+    padding:10px;
+    margin-bottom:10px;
+}

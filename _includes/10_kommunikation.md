@@ -1,8 +1,3 @@
----
-layout: default
-title: 10 Kommunikation
----
-
 # 📡 10 – Kommunikation
 
 ## Medien
@@ -26,7 +21,3 @@ title: 10 Kommunikation
 **Nach dem Lager**
 
 * Abschlussblog / Berichte
-
-
-
-[← zurück zur Übersicht](/)
