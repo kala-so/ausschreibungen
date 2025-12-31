@@ -65,12 +65,9 @@ summary {
 }
 
 /* arrow replacement */
-/*summary::-webkit-details-marker { display: none; }*/
-/*summary::before {*/
-/*    content: none; !* remove the ▸ symbol *!*/
-/*}*/
-summary:hover {
-    color: #ED70C0; /* soft pink on hover */
+summary::-webkit-details-marker { display: none; }
+summary::before {
+    content: none; /* remove the ▸ symbol */
 }
 /* ---------- INSIDE CONTENT ---------- */
 .content {
