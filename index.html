@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Kantonslager Solothurn – Ausschreibungen</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>🏕 Kantonslager Solothurn – Ausschreibungen</h1>
+  <p>Hier findest du die Bereiche & Rollen im KaLa. Klicke auf ein Ressort zum Aufklappen.</p>
+</header>
+
+<div class="accordion-container">
+
+<div class="accordion">📡 10 – Kommunikation</div>
+<div class="panel">
+  <h3>Medien</h3>
+<h4>Aufgaben</h4>
+
+<h5>Vor dem Lager</h5>
+<ul>
+<li>Medienmitteilung über Planungsfortschritt</li>
+<li>Kontakte zu Medien herstellen</li>
+<li>Konzept/ Kommunikationsstrategie</li>
+<li>Planung Social Media</li>
+<li>Posts zum Planungsstand und Meilensteinen</li>
+</ul>
+
+<h5>Während dem Lager</h5>
+<ul>
+<li>Medienmittelungen verfassen & Medienanfragen beantworten</li>
+<li>Social Media Posts + Kommentare/ DMs</li>
+<li>Updates für Eltern/ interessierte (Blog)</li>
+</ul>
+
+
+<h5>Nach dem Lager</h5>
+<ul>
+    <li>Abschlussblog / Berichte</li>
+</ul>
+
+
+
+<div class="accordion">⛑️ 20 – Sanität & Sicherheit</div>
+<div class="panel">
+
+</div>
+
+<div class="accordion">🎯 30 – Programm</div>
+<div class="panel">
+ 
+</div>
+
+<div class="accordion">🚚 40 – Logistik</div>
+<div class="panel">
+ 
+</div>
+
+<div class="accordion">🌟 50 – Staff & Einheiten</div>
+<div class="panel">
+  
+</div>
+
+<div class="accordion">💰 60 – Finanzen</div>
+<div class="panel">
+  
+</div>
+
+</div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+for (let i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    let panel = this.nextElementSibling;
+    panel.style.display = panel.style.display === "block" ? "none" : "block";
+  });
+}
+</script>
+
+</body>
+</html>
