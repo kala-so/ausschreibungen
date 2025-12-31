@@ -1,11 +1,12 @@
-/* --- GENERAL --- */
+/* ---------- GLOBAL FONTS ---------- */
 body {
-    font-family: "Lilita One", sans-serif;
+    font-family: 'Poppins', sans-serif;
     background:#f3f7f4;
     margin:0;
     color:#244b36;
 }
 
+/* ---------- HEADER ---------- */
 header {
     background:#2F7A5A;
     color:white;
@@ -14,81 +15,87 @@ header {
 }
 
 header h1 {
-    font-size:2.6rem;
+    font-family:'Lilita One', cursive;
+    font-size:3rem;
     margin-bottom:10px;
-    font-weight:700;
+    font-weight:400;
+    letter-spacing:1px;
 }
 
 header p {
-    font-size:1.2rem;
-    opacity:0.9;
+    font-size:1.15rem;
+    opacity:0.95;
+    font-weight:300;
 }
 
-/* --- MAIN CONTENT AREA --- */
+/* ---------- MAIN CONTENT ---------- */
 main {
     width:80%;
     max-width:900px;
     margin:40px auto;
 }
 
-/* --- COLLAPSIBLE RESSORT CARDS --- */
+/* ---------- COLLAPSIBLE CARDS ---------- */
 details {
     background:white;
     border-radius:18px;
     padding:22px 28px;
-    margin-bottom:22px;
-    border-left:10px solid #2F7A5A;         /* green accent like flyer */
-    box-shadow:0 4px 10px rgba(0,0,0,0.06);
+    margin-bottom:25px;
+    border-left:10px solid #2F7A5A;
+    box-shadow:0 4px 12px rgba(0,0,0,0.06);
     transition:0.3s ease;
 }
 
-/* hover effect similar to a printed flyer card lift */
 details:hover {
-    transform:translateY(-2px);
+    transform:translateY(-3px);
 }
 
-/* --- Summary header styling --- */
+/* clickable label of card */
 summary {
-    font-size:1.4rem;
-    font-weight:600;
+    font-family:'Lilita One', cursive;
+    font-size:1.7rem;
+    letter-spacing:0.7px;
     cursor:pointer;
     display:flex;
     align-items:center;
     color:#2F7A5A;
 }
 
-/* Remove default arrow */
+/* arrow replacement */
 summary::-webkit-details-marker { display:none; }
-
-/* Custom arrow ▸ -> ▾ */
 summary::before {
     content:"▸";
-    margin-right:10px;
-    font-size:1.4rem;
+    margin-right:12px;
+    font-size:1.7rem;
     transition:0.2s;
 }
 details[open] summary::before {
     content:"▾";
 }
 
-/* --- Inside content --- */
+/* ---------- INSIDE CONTENT ---------- */
 .content {
     margin-top:15px;
     font-size:1rem;
     line-height:1.55;
-    color:#335a45;
+    color:#355645;
 }
 
-.content h2, .content h3 {
+.content h2,
+.content h3 {
+    font-family:'Lilita One', cursive;
     color:#2F7A5A;
-    margin-top:14px;
+    margin-top:16px;
+    margin-bottom:8px;
+    font-size:1.5rem;
 }
 
 .content li {
     margin:6px 0;
+    font-weight:400;
 }
 
-/* --- FOOTER --- */
+/* ---------- FOOTER ---------- */
 footer {
     text-align:center;
     font-size:0.9rem;
