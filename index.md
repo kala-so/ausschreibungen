@@ -3,7 +3,7 @@ layout: default
 title: KaLa Ressorts
 ---
 
-Klicke auf einen Bereich, um Inhalte anzuzeigen.
+Klicke auf ein Ressort, um die Rollen anzuzeigen.
 
 
 <details>

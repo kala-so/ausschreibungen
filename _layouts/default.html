@@ -1,30 +1,40 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/style.css">
-</head>
-<body>
-<header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-</header>
-<svg viewBox="0 0 1440 320">
-    <path fill="#354935" fill-opacity="1" d="M0, 0L40, 26.7C80, 53, 160, 107, 240, 149.3C320, 192, 400, 224, 480, 202.7C560, 181, 640, 107, 720, 80C800, 53, 880, 75, 960, 74.7C1040, 75, 1120, 53, 1200, 53.3C1280, 53, 1360, 75, 1400, 85.3L1440, 96L1440, 0L1400, 0C1360, 0, 1280, 0, 1200, 0C1120, 0, 1040, 0, 960, 0C880, 0, 800, 0, 720, 0C640, 0, 560, 0, 480, 0C400, 0, 320, 0, 240, 0C160, 0, 80, 0, 40, 0L0, 0Z"></path>
-</svg>
-<main>
-    {{ content }}
-</main>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }} - {{ site.title }}</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Poppins:wght@300;400;500;600&display=swap"
+              rel="stylesheet">
+        <link rel="stylesheet" href="/assets/style.css">
+    </head>
+    <body>
+        <header>
+            <h1>{{ site.title }}</h1>
+            <p>{{ site.description }}</p>
+        </header>
+        <svg class="header-wave" viewBox="0 0 1710 110" fill="#354935">
+            <path d="M 0 110 C 178.5 110 178.5 50 357 50 L 357 50 L 357 0 L 0 0 Z"></path>
+            <path d="M 356 50 C 551 50 551 92 746 92 L 746 92 L 746 0 L 356 0 Z"></path>
+            <path d="M 745 92 C 1031.5 92 1031.5 49 1318 49 L 1318 49 L 1318 0 L 745 0 Z"></path>
+            <path d="M 1317 49 C 1513.5 49 1513.5 59 1710 59 L 1710 59 L 1710 0 L 1317 0 Z"></path>
+        </svg>
 
-<svg style="transform: rotate(180deg);" viewBox="0 0 1621 212" fill="#354935">
-    <path d="M 0 50 C 176 50 176 126 352 126 L 352 126 L 352 0 L 0 0 Z" stroke-width="0"></path> <path  d="M 351 126 C 516.5 126 516.5 48 682 48 L 682 48 L 682 0 L 351 0 Z" stroke-width="0"></path> <path d="M 681 48 C 903 48 903 86 1125 86 L 1125 86 L 1125 0 L 681 0 Z" stroke-width="0"></path><path d="M 1124 86 C 1372.5 86 1372.5 16 1621 16 L 1621 16 L 1621 0 L 1124 0 Z" stroke-width="0"></path></svg>
+        <main>
+            {{ content }}
+        </main>
 
-<footer>
-    <img src="../logo.png" alt="Logo" class="footer-logo">
-</footer>
-</body>
+        <svg class="footer-wave" viewBox="0 0 1621 130" fill="#354935">
+            <path d="M 0 50 C 176 50 176 126 352 126 L 352 126 L 352 0 L 0 0 Z" stroke-width="0"></path>
+            <path d="M 351 126 C 516.5 126 516.5 48 682 48 L 682 48 L 682 0 L 351 0 Z"
+                  stroke-width="0"></path>
+            <path d="M 681 48 C 903 48 903 86 1125 86 L 1125 86 L 1125 0 L 681 0 Z" stroke-width="0"></path>
+            <path d="M 1124 86 C 1372.5 86 1372.5 16 1621 16 L 1621 16 L 1621 0 L 1124 0 Z"
+                  stroke-width="0"></path>
+        </svg>
+        <footer>
+            <img src="../logo.png" alt="Logo" class="footer-logo">
+        </footer>
+    </body>
 </html>
