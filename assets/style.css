@@ -11,7 +11,7 @@ header {
     background: #354935; /* deep green header */
     color: white; /* text on dark background is white */
     text-align: center;
-    padding: 50px 0 40px;
+    padding: 10px 0 10px;
 }
 
 header h1 {
@@ -99,8 +99,17 @@ summary::before {
 
 /* ---------- FOOTER ---------- */
 footer {
-    text-align: center;
-    font-size: 0.9rem;
-    padding: 40px 0;
-    color: #354935; /* footer on light background */
+    position: absolute;
+    height: 130px;
+    bottom: 0;
+    width: 100%;
+    background: #354935;
+}
+
+.footer-logo {
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+    width: 150px;
+    height: auto;
 }
