@@ -85,7 +85,14 @@ h2, h3 {
     color: #354935;
     margin-top: 16px;
     margin-bottom: 8px;
+}
+
+h2 {
     font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.3rem;
 }
 
 .content li {
