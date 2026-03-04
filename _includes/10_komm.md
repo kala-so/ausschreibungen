@@ -18,11 +18,11 @@
 
 * Rückblick Medienmitteilung
 
-**Idealerweise bringst du mit**
+### Idealerweise bringst du mit
 
 Deinen Kaffee geniesst du am liebsten beim News-Lesen, durchstöberst gerne die Schweizer Medienlandschaft und freust dich, auch die Hintergründe besser kennen zu lernen. Medienschaffende sind ein bisschen wie Pfadileitende, sie brauchen oft einen Stupf, deshalb ist Geduld und Organisation von deiner Seite hilfreich. Der Bereich ist genial, um in die Organisationskommunikation und Medienarbeit reinzuschnuppern und tolles zu bewirken!
 
-**Gut zu wissen**
+### Gut zu wissen
 
 In diesem Bereich kannst du viel lernen und musst nicht viel Vorwissen mitbringen. Bring your buddy, every job is a two person job;)
 Bi Frage darfsch di gern bir Arwen (arwen@kala-so.ch) mäude!

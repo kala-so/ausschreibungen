@@ -4,17 +4,17 @@ body {
     flex-direction: column;
     min-height: 100vh;
     font-family: 'Poppins', sans-serif;
-    background: #F3F5F2; /* light neutral background */
+    background: #F3F5F2;
     margin: 0;
-    color: #354935; /* default text for light background */
+    color: #354935;
 }
 
 /* ---------- HEADER ---------- */
 header {
-    background: #354935; /* deep green header */
-    color: white; /* text on dark background is white */
+    background: #354935;
+    color: white;
     text-align: center;
-    padding: 10px 0 10px;
+    margin-bottom: -20px;
 }
 
 .header-wave {
@@ -42,7 +42,7 @@ main {
     flex: 1;
     width: 80%;
     max-width: 1000px;
-    margin: 40px auto;
+    margin: 20px auto;
 }
 
 /* ---------- COLLAPSIBLE CARDS ---------- */

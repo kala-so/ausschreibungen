@@ -36,5 +36,22 @@
         <footer>
             <img src="../logo.png" alt="Logo" class="footer-logo">
         </footer>
+        <script>
+        // Email obfuscation script
+        document.addEventListener('DOMContentLoaded', function() {
+            var emails = document.querySelectorAll('.obfuscated-email');
+            emails.forEach(function(span) {
+                var user = span.getAttribute('data-user');
+                var domain = span.getAttribute('data-domain');
+                if (user && domain) {
+                    var email = user + '@' + domain;
+                    var a = document.createElement('a');
+                    a.href = 'mailto:' + email;
+                    a.textContent = email;
+                    span.parentNode.replaceChild(a, span);
+                }
+            });
+        });
+        </script>
     </body>
 </html>
