@@ -80,8 +80,7 @@ summary::before {
     color: #354935;
 }
 
-.content h2,
-.content h3 {
+h2, h3 {
     font-family: 'Lilita One', cursive;
     color: #354935;
     margin-top: 16px;
