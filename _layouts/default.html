@@ -42,9 +42,8 @@
             var emails = document.querySelectorAll('.obfuscated-email');
             emails.forEach(function(span) {
                 var user = span.getAttribute('data-user');
-                var domain = span.getAttribute('data-domain');
                 if (user && domain) {
-                    var email = user + '@' + domain;
+                    var email = user + '@kala-so.ch';
                     var a = document.createElement('a');
                     a.href = 'mailto:' + email;
                     a.textContent = email;

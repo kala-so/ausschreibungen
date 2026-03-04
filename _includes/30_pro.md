@@ -27,7 +27,7 @@
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ oder chalua@kala-so.ch)
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ oder <span class="obfuscated-email" data-user="chaulua"></span>)
 
 --- 
 
@@ -61,7 +61,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsap
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ chalua@kala-so.ch)
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ <span class="obfuscated-email" data-user="chaulua"></span>)
 
 --- 
 
@@ -89,7 +89,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsap
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ chalua@kala-so.ch)
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ <span class="obfuscated-email" data-user="chaulua"></span>)
 
 ---
 ## Lagersong
@@ -113,7 +113,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsap
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ chalua@kala-so.ch)
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ <span class="obfuscated-email" data-user="chaulua"></span>)
 
 ---
 
@@ -141,4 +141,4 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsap
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ chalua@kala-so.ch)
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Chalua melden. (whatsapp link: https://tinyurl.com/mr382c3w/ <span class="obfuscated-email" data-user="chaulua"></span>)

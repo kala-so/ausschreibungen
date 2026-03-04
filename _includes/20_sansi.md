@@ -28,7 +28,7 @@
 ### Gut zu wissen
 
 Im Lager Allzeit Bereit bzw. Pikett-Dienst, um bei einem allfälligen Ereignis die Leitung zu übernehmen.
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok" data-domain="kala-so.ch"></span>
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 ---
 
@@ -61,7 +61,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok" data-domain="kala-so.ch"></span>
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 ---
 
@@ -92,7 +92,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok" data-domain="kala-so.ch"></span>
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 --- 
 
@@ -124,7 +124,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok" data-domain="kala-so.ch"></span>
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 --- 
 
@@ -159,7 +159,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok" data-domain="kala-so.ch"></span>
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 ---
 
@@ -193,4 +193,4 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok" data-domain="kala-so.ch"></span>
+Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>

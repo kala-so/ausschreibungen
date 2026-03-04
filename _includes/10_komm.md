@@ -25,7 +25,7 @@ Deinen Kaffee geniesst du am liebsten beim News-Lesen, durchstöberst gerne die 
 ### Gut zu wissen
 
 In diesem Bereich kannst du viel lernen und musst nicht viel Vorwissen mitbringen. Bring your buddy, every job is a two person job;)
-Bi Frage darfsch di gern bir Arwen (arwen@kala-so.ch) mäude!
+Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="arwen"></span>) mäude!
 
 ---
 
@@ -57,7 +57,7 @@ Insgeheim bist du ein*e Hacker*in, brauchst aber noch ein Ort, wo du diese Leide
 
 Du bist von Anfang an beim KaLa dabei, hast es aber während dem Lager etwas ruhiger.
 Bring your buddy, every job is a two person job;)
-Bi Frage darfsch di gern bir Auxilia (auxilia@kala-so.ch) mäude!
+Bi Frage darfsch di gern bir Auxilia (<span class="obfuscated-email" data-user="auxilia"></span>) mäude!
 
 ---
 
@@ -89,7 +89,7 @@ Bi Frage darfsch di gern bir Auxilia (auxilia@kala-so.ch) mäude!
 
 Du bist von Anfang an beim KaLa dabei, hast es aber während dem Lager etwas ruhiger.
 Bring your buddy, every job is a two person job;) Oder gleich ein ganzes Kreativ-Team!
-Bi Frage darfsch di gern bir Auxilia (auxilia@kala-so.ch) mäude!
+Bi Frage darfsch di gern bir Auxilia (<span class="obfuscated-email" data-user="auxilia"></span>) mäude!
 
 ---
 
@@ -121,7 +121,7 @@ Die Kamera ist deine beste Freundin und gemeinsam erobert ihr den Lagerplatz! Ph
 
 Deine Haupt-Shine-Zeit wird während dem Lager sein, mit vereinzelten Höcks vorher.
 Bring your buddy, every job is a two person job;) Oder gleich ein ganzes Kreativ-Team!  
-Bi Frage darfsch di gern bir Auxilia (auxilia@kala-so.ch) mäude!
+Bi Frage darfsch di gern bir Auxilia (<span class="obfuscated-email" data-user="auxilia"></span>) mäude!
 
 ---
 
@@ -157,7 +157,7 @@ Journalismus hat dein Herz! Wörter und Sätze aneinanderreihen begeistert dich 
 **Gut zu wissen**
 
 Die Inhalte der Zeitung und des Radios erarbeiten wir gemeinsam, weshalb vor und währenddem Lager deine "In-die-Tastenhaue-Skills" benötigt werden. Wir suchen ein ganzes Redaktions-Team; vielleicht ist es ja ein Projekt für die ganze Rotte.
-Bi Frage darfsch di gern bir Arwen (079 969 84 04) mäude!
+Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="arwen"></span>) mäude!
 
 ---
 
@@ -188,4 +188,4 @@ Du hast die Nase voll vom Stundenlangen Scrollen und willst endlich selbst anpac
 **Gut zu wissen**
 
 Das KaLa wirst du vor allem als TikTok-Star oder Kameraperson erleben, dafür tauchst du in jede erdenkliche Ecke der Lagerecke ein!
-Bi Frage darfsch di gern bir Arwen (arwen@kala-so.ch) mäude!
+Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="arwen"></span>) mäude!

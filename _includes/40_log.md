@@ -23,7 +23,7 @@
 
 ### Gut zu wissen
 
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (magellan@kala-so.ch)
+Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
 
 --- 
 
@@ -47,7 +47,7 @@ Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (magellan@kal
 * Weiterverkauf / -gabe Material
 * Debriefing
 
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (magellan@kala-so.ch)
+Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
 
 ### Gut zu wissen
 
@@ -84,7 +84,7 @@ Das Jöbli kann gut auch zu zweit gemacht werden.
 ### Gut zu wissen
 
 Der Job darf sehr gerne zu Zweit besetzt werden
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (leggo@kala-so.ch)
+Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="leggo"></span>)
 
 Bereichsleitung Post
 
@@ -100,7 +100,7 @@ Bereichsleitung Post
 
 * Verteilung Briefe & Päckli
 
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (leggo@kala-so.ch)
+Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="leggo"></span>)
 
 --- 
 ## Bereichsleitung Recycling & Entsorgung
@@ -123,4 +123,4 @@ Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (leggo@kala-s
 ### Gut zu wissen
 
 Der Job darf sehr gerne zu Zweit besetzt werden
-Bei Fragen oder Interesse kannst du dich gerne bei Leggo (leggo@kala-so.ch) melden
+Bei Fragen oder Interesse kannst du dich gerne bei Leggo (<span class="obfuscated-email" data-user="leggo"></span>) melden

@@ -31,7 +31,7 @@
 
 * Wir prüfen, ob Aufgaben in eurem Ressort an eine bezahlte Seki-Stelle abgegeben werden können.
 * Perfekt geeignet für ein eingespieltes Duo
-* Melde dich bei Fragen bei Faj ( faj@kala-so.ch?)
+* Melde dich bei Fragen bei Faj (<span class="obfuscated-email" data-user="faj"></span>)
 
 --- 
 
@@ -67,7 +67,7 @@
 ### Gut zu wissen
 
 * Perfekt geeignet für ein Rovergrüppli oder motiviertes Zweierteam.
-* Melde dich bei Fragen bei Faj ( faj@kala-so.ch?)
+* Melde dich bei Fragen bei Faj (<span class="obfuscated-email" data-user="faj"></span>)
 
 ---
 
@@ -102,7 +102,7 @@
 ### Gut zu wissen
 
 * Perfekt geeignet für ein Rovergrüppli oder motiviertes Zweierteam.
-* Melde dich bei Fragen bei Faj (faj@kala-so.ch?)
+* Melde dich bei Fragen bei Faj (<span class="obfuscated-email" data-user="faj"></span>)
 
 ---
 
@@ -139,7 +139,7 @@ Ab ca. April 2027
 ### Gut zu wissen
 
 * Du arbeitest eng mit den Bereichen Design & Merch, Verpflegung und Einheitenbetreuung zusammen.
-* Fragen? Melde dich bei Faj (faj@kala-so.ch).
+* Fragen? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
 
 ---
 
@@ -176,7 +176,7 @@ erste Abklärungen: Herbst 2026
 ### Gut zu wissen
 
 * Wir wissen noch nicht, wie Familien die KaLa-Kita nutzen möchten. Nach einer "Bedarfsabklärung" wird über die Gestaltung der Kita entschieden.
-* Fragen? Melde dich bei Faj (faj@kala-so.ch)
+* Fragen? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>)
 
 ---
 
@@ -206,7 +206,7 @@ erste Abklärungen: Herbst 2026
 
 * Das Roverfest ist ein Dankesanlass, der nach dem Lager stattfinden soll. Wàhrend dem Lager hast du Zeit für Anderes.
 * Perfekt als Projekt für ein motiviertes Team.
-* Fragen? Melde dich bei Faj ()
+* Fragen? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>)
 
 ---
 
@@ -242,5 +242,5 @@ Ab April 2027
 ### Gut zu wissen
 
 * Ideal für ein kleines Rovergrüppli.
-* Fragen? Melde dich bei Faj (faj@kala-so.ch)
+* Fragen? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>)
 

@@ -7,7 +7,6 @@
 * Gesamtverantwortung für die finanzielle Planung des Lagers
 * Koordination und Leitung der Subbereiche Finanzen / Buchhaltung und Sponsoring
 * Gestaltung und Aufbau des Ressorts Finanzen
-*
 
 **Während dem Lager**
 
