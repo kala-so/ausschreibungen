@@ -9,7 +9,7 @@ title: KaLa
   der Vorbereitung und Umsetzung mitzuwirken.
   Die ersten Arbeiten starten ab sofort – und vielleicht bist du bald schon mit dabei!
   </p>
-</div>
+
 
 <h2>🔍 Offene Aufgaben – Wo kannst du mitanpacken?</h2>
 <p>Hier findest du laufend neue Aufgaben in verschiedensten Bereichen.
@@ -17,7 +17,7 @@ Schau regelmässig vorbei, such dir eine passende Aufgabe aus und werde Teil des
 👉 Tipp: Schnapp dir deine liebsten Pfadi-Freund*innen und meldet euch gemeinsam – denn zusammen
 macht die Vorbereitung noch mehr Spass und wird zu einem weiteren unvergesslichen Pfadi-Abenteuer.</p>
 
-<h2>⭐ Das erwartet dich</h3>
+<h2>⭐ Das erwartet dich</h2>
 Alle Mitarbeitenden profitieren von einem aktiven und lebendigen Planungsprozess:
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1em;margin-bottom:2em;">
@@ -31,11 +31,12 @@ Alle Mitarbeitenden profitieren von einem aktiven und lebendigen Planungsprozess
 
 <p>Gemeinsam gestalten wir das KaLa 2028 – kreativ, bunt und unvergesslich.</p>
 
-<h2>❓ Fragen?</h3>
+<h2>❓ Fragen?</h2>
 <p>Bei Fragen zu den offenen Aufgaben oder zur Mitarbeit melde dich jederzeit bei der Ressortleitung.<br>
 Wir freuen uns auf dich!</p>
 
 <p>Klicke auf ein Ressort, um die Rollen anzuzeigen.</p>
+</div>
 
 <details>
 <summary><b>📡 KOMMUNIKATION</b></summary>

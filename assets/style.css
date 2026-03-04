@@ -53,17 +53,6 @@ main {
     padding: 0 1em;
 }
 
-.intro h2 {
-    font-size: 2.2rem;
-    margin-bottom: 0.7em;
-}
-
-.intro p {
-    font-size: 1.15rem;
-    line-height: 1.6;
-    margin-bottom: 0.2em;
-}
-
 /* ---------- COLLAPSIBLE CARDS ---------- */
 details {
     background: white; /* light background */
@@ -164,12 +153,6 @@ footer {
         margin: 1.2em auto 1em auto;
         max-width: 98vw;
         padding: 0 2vw;
-    }
-    .intro h2 {
-        font-size: 1.3rem;
-    }
-    .intro p {
-        font-size: 1rem;
     }
     details {
         padding: 10px 8px;
