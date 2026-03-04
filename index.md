@@ -1,20 +1,23 @@
 ---
 layout: default
-title: KaLa Ressorts
+title: KaLa
 ---
 
-<h1>Mach mit beim KaLa 2028!</h1>
-<p> Für das Kantonslager 2028 suchen wir viele engagierte und motivierte Menschen, die Lust haben, bei
-der Vorbereitung und Umsetzung mitzuwirken.
-Die ersten Arbeiten starten ab sofort – und vielleicht bist du bald schon mit dabei!
+<div class="intro">
+  <h2>Mach mit beim KaLa 2028!</h2>
+  <p> Für das Kantonslager 2028 suchen wir viele engagierte und motivierte Menschen, die Lust haben, bei
+  der Vorbereitung und Umsetzung mitzuwirken.
+  Die ersten Arbeiten starten ab sofort – und vielleicht bist du bald schon mit dabei!
+  </p>
+</div>
 
-<h3>🔍 Offene Aufgaben – Wo kannst du mitanpacken?</h3>
+<h2>🔍 Offene Aufgaben – Wo kannst du mitanpacken?</h3>
 <p>Hier findest du laufend neue Aufgaben in verschiedensten Bereichen.
 Schau regelmässig vorbei, such dir eine passende Aufgabe aus und werde Teil des Teams!<br>
 👉 Tipp: Schnapp dir deine liebsten Pfadi-Freund*innen und meldet euch gemeinsam – denn zusammen
 macht die Vorbereitung noch mehr Spass und wird zu einem weiteren unvergesslichen Pfadi-Abenteuer.</p>
 
-<h3>⭐ Das erwartet dich</h3>
+<h2>⭐ Das erwartet dich</h3>
 Alle Mitarbeitenden profitieren von einem aktiven und lebendigen Planungsprozess:
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1em;margin-bottom:2em;">
@@ -28,11 +31,11 @@ Alle Mitarbeitenden profitieren von einem aktiven und lebendigen Planungsprozess
 
 <p>Gemeinsam gestalten wir das KaLa 2028 – kreativ, bunt und unvergesslich.</p>
 
-<h3>❓ Fragen?</h3>
+<h2>❓ Fragen?</h3>
 <p>Bei Fragen zu den offenen Aufgaben oder zur Mitarbeit melde dich jederzeit bei der Ressortleitung.<br>
 Wir freuen uns auf dich!</p>
 
-<pre>Klicke auf ein Ressort, um die Rollen anzuzeigen.</pre>
+<p>Klicke auf ein Ressort, um die Rollen anzuzeigen.</p>
 
 <details>
 <summary><b>📡 KOMMUNIKATION</b></summary>
@@ -93,4 +96,3 @@ Wir freuen uns auf dich!</p>
 {{ fin | markdownify }}
 </div>
 </details>
-
