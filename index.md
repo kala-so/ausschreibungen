@@ -11,7 +11,7 @@ title: KaLa
   </p>
 </div>
 
-<h2>🔍 Offene Aufgaben – Wo kannst du mitanpacken?</h3>
+<h2>🔍 Offene Aufgaben – Wo kannst du mitanpacken?</h2>
 <p>Hier findest du laufend neue Aufgaben in verschiedensten Bereichen.
 Schau regelmässig vorbei, such dir eine passende Aufgabe aus und werde Teil des Teams!<br>
 👉 Tipp: Schnapp dir deine liebsten Pfadi-Freund*innen und meldet euch gemeinsam – denn zusammen
