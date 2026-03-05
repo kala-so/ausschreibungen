@@ -84,7 +84,7 @@ Das Jöbli kann gut auch zu zweit gemacht werden.
 ### Gut zu wissen
 
 Der Job darf sehr gerne zu Zweit besetzt werden
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="leggo"></span>)
+Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
 
 Bereichsleitung Post
 
@@ -100,7 +100,7 @@ Bereichsleitung Post
 
 * Verteilung Briefe & Päckli
 
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="leggo"></span>)
+Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
 
 --- 
 ## Bereichsleitung Recycling & Entsorgung

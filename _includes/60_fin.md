@@ -4,11 +4,11 @@
 
 **Vor dem Lager**
 
-* Gesamtplanung und Aufbau des Ressorts Finanzen
 * Gesamtverantwortung für die finanzielle Planung des Lagers
-* Betreuung der Bereiche Sponsoring und Buchhaltung
+* Gesamtplanung und Aufbau des Ressorts Finanzen in enger Abstimung mit dem Vorstand
+* Sicherstellung der Jahresrechnungen des Vereins in Abstimmung mit dem Vorstand
 * Finanzprozesse definieren zusammen mit den Bereichen
-* Austausch mit Lagerleitung und anderen Ressorts
+* Erarbeitung des Spesenreglements
 
 **Während dem Lager**
 
