@@ -131,6 +131,11 @@ footer {
     width: 150px;
 }
 
+.form {
+    position: relative;
+    height:80dvh;
+    overflow:auto;
+}
 /* ---------- BUTTONS ---------- */
 .cta-btn {
   display: inline-block;
@@ -222,5 +227,9 @@ footer {
     .header-wave,
     .footer-wave {
         display: none !important;
+    }
+
+    .form {
+        height: calc(100dvh - 310px);
     }
 }
