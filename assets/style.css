@@ -198,13 +198,3 @@ footer {
         display: none !important;
     }
 }
-
-/* ---------- ERWARTET DICH ---------- */
-.erwartet-mitte {
-  text-align: center;
-  margin: 1.5em 0;
-}
-.erwartet-mitte p {
-  margin: 0.7em 0;
-  font-size: 1.13em;
-}

@@ -10,30 +10,13 @@ title: KaLa
   Die ersten Arbeiten starten ab sofort – und vielleicht bist du bald schon mit dabei!
   </p>
 
-
-<h2>🔍 Offene Aufgaben – Wo kannst du mitanpacken?</h2>
+<h2>Offene Aufgaben – Wo kannst du mitanpacken?</h2>
 <p>Hier findest du laufend neue Aufgaben in verschiedensten Bereichen.
 Schau regelmässig vorbei, such dir eine passende Aufgabe aus und werde Teil des Teams!<br>
 👉 Tipp: Schnapp dir deine liebsten Pfadi-Freund*innen und meldet euch gemeinsam – denn zusammen
 macht die Vorbereitung noch mehr Spass und wird zu einem weiteren unvergesslichen Pfadi-Abenteuer.</p>
 
-<h2>⭐ Das erwartet dich</h2>
-<div class="erwartet-mitte">
-  <p>Ein KaLa mitgestalten, das für hunderte Kinder und Jugendliche ein Highlight ihres Pfadilebens wird</p>
-  <p>Dich mit engagierten Menschen aus der ganzen Pfadi Kanton Solothurn austauschen und zusammenarbeiten</p>
-  <p>Gemeinsame Co-Working-Tage und ein jährliches Planungsweekend erleben</p>
-  <p>Neues ausprobieren, Erfahrungen sammeln und dabei persönlichen Fortschritt erleben</p>
-  <p>Ein abwechslungsreiches FUN-Programm, viele schöne Pfadi-Momente und gutes Essen geniessen</p>
-  <p>Anerkennung für dein Engagement – auch ausserhalb der Pfadi (z.B. mit Benevol-Nachweis)</p>
-  <p>Anerkennung für dein Engagement – auch ausserhalb der Pfadi (z.B. mit Benevol-Nachweis)</p>
-</div>
-<p>Gemeinsam gestalten wir das KaLa 2028 – kreativ, bunt und unvergesslich.</p>
-
-<h2>❓ Fragen?</h2>
-<p>Bei Fragen zu den offenen Aufgaben oder zur Mitarbeit melde dich jederzeit bei der Ressortleitung.<br>
-Wir freuen uns auf dich!</p>
-
-<p>Klicke auf ein Ressort, um die Rollen anzuzeigen.</p>
+<p>👇 Klicke auf ein Ressort, um die Rollen anzuzeigen.</p>
 </div>
 
 <details>
@@ -106,3 +89,15 @@ Hast du eine andere Idee oder möchtest anderweitig mithelfen? Kein Problem - wi
 Melde dich einfach bei den Ressorts oder direkt bei Biber (<span class="obfuscated-email" data-user="biber"></span>)
 </div>
 </details>
+
+
+<h2>⭐ Das erwartet dich</h2>
+<div class="erwartet-mitte">
+  <p>Ein KaLa mitgestalten, das für hunderte Kinder und Jugendliche ein Highlight ihres Pfadilebens wird</p>
+  <p>Dich mit engagierten Menschen aus der ganzen Pfadi Kanton Solothurn austauschen und zusammenarbeiten</p>
+  <p>Gemeinsame Co-Working-Tage und ein jährliches Planungsweekend erleben</p>
+  <p>Neues ausprobieren, Erfahrungen sammeln und dabei persönlichen Fortschritt erleben</p>
+  <p>Ein abwechslungsreiches FUN-Programm, viele schöne Pfadi-Momente und gutes Essen geniessen</p>
+  <p>Anerkennung für dein Engagement – auch ausserhalb der Pfadi</p>
+</div>
+<p>Gemeinsam gestalten wir das KaLa 2028 – kreativ, bunt und unvergesslich.</p>
