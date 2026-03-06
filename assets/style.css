@@ -151,7 +151,13 @@ footer {
   box-shadow: 0 4px 16px rgba(163,44,117,0.18);
 }
 
-/* ---------- MEDIA QUERIES ---------- */
+.back {
+  display: inline-block;
+  margin: 1.2em 0 1em 0;
+  color: #354935;
+  text-decoration: none;
+}
+
 @media (max-width: 600px) {
     body {
         font-size: 1.05rem;

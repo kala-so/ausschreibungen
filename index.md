@@ -81,7 +81,7 @@ macht die Vorbereitung noch mehr Spass und wird zu einem weiteren unvergessliche
 
 
 <details>
-<summary><b>🧩 Sonstiges</b></summary>
+<summary><b>🧩 SONSTIGES</b></summary>
 
 
 <div class="content">
