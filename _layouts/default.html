@@ -47,7 +47,16 @@
                     var a = document.createElement('a');
                     a.href = 'mailto:' + email;
                     a.textContent = email;
-                    span.parentNode.replaceChild(a, span);
+                    var text = document.createTextNode(' oder mit dem ');
+                    var formLink = document.createElement('a');
+                    formLink.href = '/umfrage';
+                    formLink.textContent = 'Formular';
+                    // Container für alles
+                    var container = document.createElement('span');
+                    container.appendChild(a);
+                    container.appendChild(text);
+                    container.appendChild(formLink);
+                    span.parentNode.replaceChild(container, span);
                 }
             });
         });
