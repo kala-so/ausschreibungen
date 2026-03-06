@@ -90,14 +90,14 @@ Melde dich einfach bei den Ressorts oder direkt bei Biber (<span class="obfuscat
 </div>
 </details>
 
-
+<div class="intro">
 <h2>⭐ Das erwartet dich</h2>
-<div class="erwartet-mitte">
   <p>Ein KaLa mitgestalten, das für hunderte Kinder und Jugendliche ein Highlight ihres Pfadilebens wird</p>
   <p>Dich mit engagierten Menschen aus der ganzen Pfadi Kanton Solothurn austauschen und zusammenarbeiten</p>
   <p>Gemeinsame Co-Working-Tage und ein jährliches Planungsweekend erleben</p>
   <p>Neues ausprobieren, Erfahrungen sammeln und dabei persönlichen Fortschritt erleben</p>
   <p>Ein abwechslungsreiches FUN-Programm, viele schöne Pfadi-Momente und gutes Essen geniessen</p>
   <p>Anerkennung für dein Engagement – auch ausserhalb der Pfadi</p>
-</div>
+<br>
 <p>Gemeinsam gestalten wir das KaLa 2028 – kreativ, bunt und unvergesslich.</p>
+</div>

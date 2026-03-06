@@ -131,6 +131,26 @@ footer {
     width: 150px;
 }
 
+/* ---------- BUTTONS ---------- */
+.cta-btn {
+  display: inline-block;
+  margin: 1.5em 0 1em 0;
+  padding: 0.7em 1.5em;
+  background: #ED70C0;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 0.7em;
+  text-decoration: none;
+  font-size: 1.15em;
+  box-shadow: 0 2px 8px rgba(237,112,192,0.15);
+  transition: background 0.2s, box-shadow 0.2s;
+  border: none;
+}
+.cta-btn:hover, .cta-btn:focus {
+  background: #A32C75;
+  box-shadow: 0 4px 16px rgba(163,44,117,0.18);
+}
+
 /* ---------- MEDIA QUERIES ---------- */
 @media (max-width: 600px) {
     body {
