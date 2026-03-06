@@ -97,3 +97,14 @@ Wir freuen uns auf dich!</p>
 {{ fin | markdownify }}
 </div>
 </details>
+
+
+<details>
+<summary><b>🧩 Sontiges</b></summary>
+
+
+<div class="content">
+{% capture sonstiges %}{% include 99_sonstiges.md %}{% endcapture %}
+{{ sonstiges | markdownify }}
+</div>
+</details>
