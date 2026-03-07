@@ -85,6 +85,8 @@ Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfusca
 Der Job darf sehr gerne zu zweit besetzt werden.
 Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
 
+---
+
 ## Bereichsleitung Post
 
 ### Aufgaben
