@@ -1,38 +1,37 @@
-## Co-Ressortleitung Sanität und Sicherheit
+## Co-Ressortleitung Sanität & Sicherheit
 
 ### Aufgaben
 
 **Vor dem Lager**
 
-* Mitarbeit bei der Planung des Ressort und dem Lager allg.
-* Mithelfen beim erstellen der einzelnen Konzepte (Sicherheit, Sanität, Prävention-Care und Lageverfolgung)
-* Suchen von weiteren Personen welche im Ressort mithelfen wollen.
+* Mitarbeit bei der Planung des Ressorts und des gesamten Lagers
+* Mithelfen beim Erstellen der einzelnen Konzepte (Sicherheit, Sanität, Prävention-Care und Lageverfolgung)
+* Suchen von weiteren Personen, die im Ressort mithelfen wollen
 
 **Während dem Lager**
 
 * Teil der Lagerleitung
-* Koordination des Ressort und Ansprechperson für andere Ressorts und Hauptlagerleitung.
-* Einsatzleitung bei Ereignissen.
+* Koordination des Ressorts und Ansprechperson für andere Ressorts
+* Einsatzleitung bei Ereignissen übernehmen
 * Einsitz im Krisenstab
 
 **Nach dem Lager**
 
-* Debriefings
-* Auswertung des Ressort und sammeln der Erfahrung für zukünftige Lager
+* Auswertung des Ressorts und Sammeln von Erfahrungen für zukünftige Lager
 
 ### Idealerweise bringst du mit
 
 * Gute Organisationsfähigkeit
-* Erfahrung im Gesundheitswesen, der Feuerwehr, im Sicherheitsbereich oder im Prävention-Care Bereich von Vorteil.
+* Erfahrung im Gesundheitswesen, bei der Feuerwehr, im Sicherheitsbereich oder im Prävention-Care Bereich von Vorteil.
 
 ### Gut zu wissen
 
-Im Lager Allzeit Bereit bzw. Pikett-Dienst, um bei einem allfälligen Ereignis die Leitung zu übernehmen.
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
+Im Lager: Allzeit Bereit bzw. Pikett-Dienst, um bei einem allfälligen Ereignis die Leitung zu übernehmen.
+Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 ---
 
-## Lagerarzt / Lagerärztin
+## Lagerärzt*in
 
 ### Aufgaben
 
@@ -40,13 +39,13 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 * Mitarbeit Sanitätskonzept, Festlegung Kompetenzen
 * Planung und Beschaffung von sanitarischem und medizinischem Material
-* Planung Ausbildung der Helfenden
+* Ausbildung der Helfenden planen
 * Kontakt mit (Zahn-)Ärzten, Spitälern etc.
 
 **Während dem Lager**
 
 * Verantwortung für sämtliche medizinischen und sanitarischen Aktivitäten im Lager
-* Instruiert und berät medizinisches Personal
+* Helfende instruieren und beraten
 * Durchführung der Helfer*innen-Ausbildung
 * Mitarbeit im Sanitätsposten
 
@@ -56,12 +55,12 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Idealerweise bringst du mit
 
-* Eidgenössisch diplomierter Arzt/diplomierte Ärztin zwingend, FMH-Fachärztin/Facharzt gewünscht.
-* Berufserfahrung Notfallmedizin, Chirurgie, Pädiatrie, Innere Medizin, Hausarztpraxis von Vorteil.
+* Eidgenössisch diplomierte*r Ärzt*in zwingend, FMH-Fachärztin/Facharzt gewünscht
+* Berufserfahrung Notfallmedizin, Chirurgie, Pädiatrie, Innere Medizin, Hausarztpraxis von Vorteil
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
+Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 ---
 
@@ -92,7 +91,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
+Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 --- 
 
@@ -124,7 +123,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
+Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 --- 
 
@@ -148,7 +147,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 **Nach dem Lager**
 
-* Debriefings
+* Debriefing
 * Übergabe offener Fälle an das Krisenteam
 
 ### Idealerweise bringst du mit
@@ -159,7 +158,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
+Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
 
 ---
 
@@ -169,7 +168,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 **Vor dem Lager**
 
-* Mitarbeit an Erstellung der Konzepten für den Bereich Lageverfolgung
+* Mitarbeit an den Konzepten für den Bereich Lageverfolgung
 * Absprachen mit anderen Bereichen und Ressorts
 * Regelmässige Teilnahme an den Ressortsitzungen Sanität & Sicherheit
 
@@ -183,7 +182,7 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 **Nach dem Lager**
 
-* Debriefings
+* Debriefing
 
 ### Idealerweise bringst du mit
 
@@ -193,4 +192,4 @@ Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span clas
 
 ### Gut zu wissen
 
-Bei Interessen oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
+Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
