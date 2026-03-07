@@ -163,6 +163,13 @@ footer {
   text-decoration: none;
 }
 
+.privacy {
+    font-size: 0.85em;
+    color: #888;
+    text-align: center;
+    margin-top: 12px;
+}
+
 @media (max-width: 600px) {
     body {
         font-size: 1.05rem;
