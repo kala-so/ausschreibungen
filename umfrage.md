@@ -12,4 +12,4 @@ title: Umfrage
   </iframe>
 </div>
 
-<p class="privacy"><b>Datenschutz:</b> Wir nutzen das Tool Formbricks. Neben deinen Antworten werden auch technische Daten und Metadaten (z.B. IP-Adresse, Zeitstempel) erhoben. Deine Teilnahme ist freiwillig und die Daten werden verschlüsselt auf Servern in Deutschland gespeichert, dienen ausschließlich dem KaLa-Team und werden nach Gebrauch gelöscht. Ein Widerruf ist jederzeit möglich. Weitere Details findest du in der <a href="https://formbricks.com/privacy-policy">Datenschutzerklärung</a> von Formbricks.</p>
+<p class="privacy"><b>Datenschutz:</b> Wir nutzen das Tool Formbricks. Neben deinen Antworten werden auch technische Daten und Metadaten (z.B. IP-Adresse, Zeitstempel) erhoben. Deine Teilnahme ist freiwillig und die Daten werden verschlüsselt auf Servern in Deutschland gespeichert, dienen ausschliesslich dem KaLa-Team und werden nach Gebrauch gelöscht. Ein Widerruf ist jederzeit möglich. Weitere Details findest du in der <a href="https://formbricks.com/privacy-policy">Datenschutzerklärung</a> von Formbricks.</p>
