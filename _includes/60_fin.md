@@ -5,16 +5,16 @@
 **Vor dem Lager**
 
 * Gesamtverantwortung für die finanzielle Planung des Lagers
-* Gesamtplanung und Aufbau des Ressorts Finanzen in enger Abstimung mit dem Vorstand
+* Gesamtplanung und Aufbau des Ressorts Finanzen in enger Abstimmung mit dem Vorstand
 * Sicherstellung der Jahresrechnungen des Vereins in Abstimmung mit dem Vorstand
-* Finanzprozesse definieren zusammen mit den Bereichen
+* Finanzprozesse zusammen mit den Bereichen definieren
 * Erarbeitung des Spesenreglements
 
 **Während dem Lager**
 
 * Teil der Lagerleitung
 * Finanzielle Übersicht behalten
-* Ansprechperson für Lagerleitung und andere Ressorts
+* Ansprechperson für die Lagerleitung und Bereiche
 * Unterstützung der Bereiche
 
 **Nach dem Lager**
@@ -26,12 +26,12 @@
 ### Idealerweise bringst du mit
 
 * Du arbeitest strukturiert und übernimmst gerne Verantwortung.
-* Erfahrung im Finanzbereich ist von Vorteil
+* Erfahrung im Finanzbereich ist von Vorteil.
 
 ### Gut zu wissen
 
-* Perfekt geeignet für ein eingespieltes Duo mit Zahlenflair. Kann in Co-Leitung und auch als Stabsstelle übernommen werden
-* Melde dich bei Fragen bei Biber (<span class="obfuscated-email" data-user="biber"></span>)
+* Perfekt geeignet für ein eingespieltes Duo mit Zahlenflair. Kann in Co-Leitung und als Stabsstelle übernommen werden.
+* Melde dich bei Fragen bei Biber (<span class="obfuscated-email" data-user="biber"></span>).
 
 ---
 
@@ -61,9 +61,9 @@
 
 ### Gut zu wissen
 
-* Kann zu zweit oder im Team übernommen werden
+* Kann zu zweit oder im Team übernommen werden.
 * Du trägst direkt dazu bei, den Lagerbeitrag tief zu halten 💪
-* Melde dich bei Fragen bei Biber (<span class="obfuscated-email" data-user="biber"></span>)
+* Melde dich bei Fragen bei Biber (<span class="obfuscated-email" data-user="biber"></span>).
 
 ---
 
@@ -75,7 +75,7 @@
 
 * Budgeterarbeitung
 * Buchhaltungssoftware einrichten
-* Kontrolle der Rechnungen und Auslösung von Zahlungen
+* Kontrolle der Rechnungen und Auslösen von Zahlungen
 
 **Während dem Lager**
 
@@ -97,4 +97,4 @@
 ### Gut zu wissen
 
 * Kann auch zu zweit übernommen werden
-* Melde dich bei Fragen bei Biber (<span class="obfuscated-email" data-user="biber"></span>)
+* Melde dich bei Fragen bei Biber (<span class="obfuscated-email" data-user="biber"></span>).
