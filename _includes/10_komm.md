@@ -4,27 +4,27 @@
 
 **Vor dem Lager**
 
-* Medienmitteilung über Planungsfortschritt
+* Medienmitteilungen zum Planungsfortschritt
 * Kontakte zu Medien herstellen
-* Konzept Medienkontakt
+* Konzept für den Medienkontakt
 * Medientag organisieren
 
 **Während dem Lager**
 
-* Medienmittelungen verfassen & Medienanfragen beantworten
+* Medienmitteilungen verfassen und Medienanfragen beantworten
 * Durchführung Medientag
 
 **Nach dem Lager**
 
-* Rückblick Medienmitteilung
+* Rückblicks-Medienmitteilung
 
 ### Idealerweise bringst du mit
 
-Deinen Kaffee geniesst du am liebsten beim News-Lesen, durchstöberst gerne die Schweizer Medienlandschaft und freust dich, auch die Hintergründe besser kennen zu lernen. Medienschaffende sind ein bisschen wie Pfadileitende, sie brauchen oft einen Stupf, deshalb ist Geduld und Organisation von deiner Seite hilfreich. Der Bereich ist genial, um in die Organisationskommunikation und Medienarbeit reinzuschnuppern und tolles zu bewirken!
+Deinen Kaffee geniesst du am liebsten beim News-Lesen, durchstöberst gerne die Schweizer Medienlandschaft und freust dich, auch die Hintergründe besser kennenzulernen. Medienschaffende sind ein bisschen wie Pfadileitende: sie brauchen oft einen Stupf. Deshalb sind Geduld und Organisation von deiner Seite hilfreich. Der Bereich ist genial, um in die Organisationskommunikation und Medienarbeit reinzuschnuppern und Tolles zu bewirken!
 
 ### Gut zu wissen
 
-In diesem Bereich kannst du viel lernen und musst nicht viel Vorwissen mitbringen. Bring your buddy, every job is a two person job;)
+In diesem Bereich kannst du viel lernen und musst nur wenig Vorwissen mitbringen. Bring your buddy, every job is a two person job;)
 Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="arwen"></span>) mäude!
 
 ---
@@ -35,15 +35,15 @@ Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="ar
 
 **Vor dem Lager**
 
-* Auswählen und Aufsetzen von IT-Lösungen (Helfendenverwaltung, Orca, CMS)
-* Betreuen und Zugänge zu Tools (Slack, etc.)
-* Website erstellen, Inhalte abfüllen
+* IT-Lösungen auswählen und aufsetzen (Helfendenverwaltung, Orca, CMS)
+* Tools betreuen und Zugänge verwalten (Slack, etc.)
+* Website erstellen, Inhalte einpflegen
 * Datenschutzkonzept erstellen
 
 **Während dem Lager**
 
 * Support bei Problemen
-* Updates/ Blogbeiträge posten
+* Updates und Blogbeiträge posten
 
 **Nach dem Lager**
 
@@ -51,7 +51,7 @@ Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="ar
 
 **Idealerweise bringst du mit**
 
-Insgeheim bist du ein*e Hacker*in, brauchst aber noch ein Ort, wo du diese Leidenschaft ausleben kannst. Du träumst in Formatierungscodes und denkst in Phyton oder einer sonstiger Programmiersprache.
+Insgeheim bist du ein*e Hacker*in, brauchst aber noch einen Ort, wo du diese Leidenschaft ausleben kannst. Du träumst in Formatierungscodes und denkst in Python oder einer anderen Programmiersprache.
 
 **Gut zu wissen**
 
@@ -67,7 +67,7 @@ Bi Frage darfsch di gern bir Auxilia (<span class="obfuscated-email" data-user="
 
 **Vor dem Lager**
 
-* Branding KaLa: Logo und Vorlagen
+* KaLa-Branding: Logo und Vorlagen
 * Merchandise festlegen, designen und bestellen
 * Verkauf mit Kiosk koordinieren
 
@@ -77,7 +77,7 @@ Bi Frage darfsch di gern bir Auxilia (<span class="obfuscated-email" data-user="
 
 **Nach dem Lager**
 
-* Helfen beim erstellen Fotobuch
+* Helfen beim Erstellen des Fotobuchs
 * Organisation Restbestand
 * Nachbestellung bei hugem Andrang (was bei deinem Design natürlich der Fall sein wird)
 
@@ -100,7 +100,7 @@ Bi Frage darfsch di gern bir Auxilia (<span class="obfuscated-email" data-user="
 **Vor dem Lager**
 
 * Konzept erstellen, «Drehbuch» Lagerfilm
-* Planung «Foto- und Filmtermine»
+* Planung Foto- und Filmtermine
 * Ggf. Layout Fotobuch ausarbeiten
 
 **Während dem Lager**
@@ -131,28 +131,28 @@ Bi Frage darfsch di gern bir Auxilia (<span class="obfuscated-email" data-user="
 
 **Vor dem Lager**
 
-* Konzepte erstellen (Auflage, Erscheinungszeitpunkt, Podcast/ gesendetes Radio, Sendezeiten, Themen, etc.)
+* Konzepte erstellen (Auflage, Erscheinungszeitpunkt, Podcast / Lagerradio, Sendezeiten, Themen, etc.)
 * Abonnemente organisieren
 * Layout vorbereiten
-* Kontakt mit Druckerei
-* Updates für Eltern/ Interessierte (Blog)
+* Kontakt mit der Druckerei
+* Updates für Eltern und Interessierte (Blog)
 
 **Während dem Lager**
 
 * Redaktion: Artikel und Fotos
 * Layout
 * Ggf. Sponsorenbeiträge
-* Interviews/ Sendungen planen, aufnehmen und publizieren
-* Versand Abos
+* Interviews und Sendungen planen, aufnehmen und publizieren
+* Versand der Abos
 
 **Nach dem Lager**
 
-* Abrechnung Druckerei
+* Abrechnung mit der Druckerei
 * Abschlussbeitrag
 
 **Idealerweise bringst du mit**
 
-Journalismus hat dein Herz! Wörter und Sätze aneinanderreihen begeistert dich täglich. Oder du bist ein "Schnurri" und suchst den perfekten Ort dafür? Die Redaktion bietet genau diesen Platz.
+Journalismus hat dein Herz! Wörter und Sätze aneinanderzureihen begeistert dich täglich. Oder du bist ein "Schnurri" und suchst den perfekten Ort dafür? Die Redaktion bietet genau diesen Platz.
 
 **Gut zu wissen**
 
@@ -163,19 +163,19 @@ Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="ar
 
 ## Social Media
 
-## Aufgaben
+### Aufgaben
 
 **Vor dem Lager**
 
 * Konzept erstellen
-* Planung und erstellen von Social Media Profilen
+* Planung und Erstellen von Social Media Profilen
 * Posts zum Planungsstand und Meilensteinen
 
 **Während dem Lager**
 
 * Content aufnehmen, erstellen
-* Social Media Posts
-* Kommentare/ DMs beantworten
+* Social-Media-Posts
+* Kommentare und DMs beantworten
 
 **Nach dem Lager**
 
@@ -183,9 +183,9 @@ Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="ar
 
 **Idealerweise bringst du mit**
 
-Du hast die Nase voll vom Stundenlangen Scrollen und willst endlich selbst anpacken? Die Kamera ist dein Zuhause oder du weisst genau, wie das Handy gehalten werden soll? Hier findest du einen Raum um zu experimentieren und rauszufinde, wie das KaLa am besten in den Sozialen Medien scheint und welche Trends doch noch lustig beim nachmachen sind. Dazu hast du eine Garantierte Steckdose für dein Handy im Lager!
+Du hast die Nase voll vom stundenlangen Scrollen und willst endlich selbst anpacken? Die Kamera ist dein Zuhause oder du weisst genau, wie das Handy gehalten werden soll? Hier findest du einen Raum, um zu experimentieren und rauszufinden, wie das KaLa am besten in den Sozialen Medien wirkt und welche Trends beim Nachmachen doch noch lustig sind. Dazu hast du eine garantierte Steckdose für dein Handy im Lager!
 
 **Gut zu wissen**
 
-Das KaLa wirst du vor allem als TikTok-Star oder Kameraperson erleben, dafür tauchst du in jede erdenkliche Ecke der Lagerecke ein!
+Das KaLa wirst du vor allem als TikTok-Star oder Kameraperson erleben, dafür tauchst du in jede erdenkliche Ecke des Lagerplatzes ein!
 Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="arwen"></span>) mäude!
