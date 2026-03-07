@@ -4,9 +4,9 @@
 
 **Vor dem Lager**
 
-* Mitarbeit am Konzept Infrastruktur
-* Planung der Wasser Infrastruktur auf dem Lagerplatz
-* Koordination Auf- und Abbau
+* Mitarbeit am Infrastrukturkonzept
+* Planung der Wasser-Infrastruktur auf dem Lagerplatz
+* Planung Auf- und Abbau
 
 **Während dem Lager**
 
@@ -23,7 +23,7 @@
 
 ### Gut zu wissen
 
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
+Bei Interesse und Fragen kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
 
 --- 
 
@@ -33,25 +33,24 @@ Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class=
 
 **Vor dem Lager**
 
-* Materialbedarf intern und Einheiten eruieren
+* Materialbedarf intern und bei den Einheiten eruieren
 * Materialbestellung
 * Planung mit J+S
 * Materialausgabe und -rücknahme planen
 
 **Während dem Lager**
 
-* Koordination Materialausgabe und -rücknahme
+* Materialausgabe und -rücknahme koordinieren
 
 **Nach dem Lager**
 
-* Weiterverkauf / -gabe Material
+* Weiterverkauf und -gabe Material
 * Debriefing
-
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
 
 ### Gut zu wissen
 
 Das Jöbli kann gut auch zu zweit gemacht werden.
+Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
 
 ---
 
@@ -78,15 +77,15 @@ Das Jöbli kann gut auch zu zweit gemacht werden.
 
 ### Idealerweise bringst du mit
 
-* Erfahrungen im Bereich Grossküche / Catering
+* Erfahrung im Bereich Grossküche / Catering
 * Erfahrung mit Menüplanung in Lagerküchen
 
 ### Gut zu wissen
 
-Der Job darf sehr gerne zu Zweit besetzt werden
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
+Der Job darf sehr gerne zu zweit besetzt werden.
+Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
 
-Bereichsleitung Post
+##Bereichsleitung Post
 
 ### Aufgaben
 
@@ -94,13 +93,14 @@ Bereichsleitung Post
 
 * Absprache mit der Post
 * Planung Post
-* Interne Post
+* Organisation interne Post
 
 **Während dem Lager**
 
 * Verteilung Briefe & Päckli
 
-Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
+### Gut zu wissen
+Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
 
 --- 
 ## Bereichsleitung Recycling & Entsorgung
@@ -122,5 +122,5 @@ Bei Interesse und Fragen, kannst du dich gerne bei Magellan melden (<span class=
 
 ### Gut zu wissen
 
-Der Job darf sehr gerne zu Zweit besetzt werden
-Bei Fragen oder Interesse kannst du dich gerne bei Leggo (<span class="obfuscated-email" data-user="leggo"></span>) melden
+Der Job darf sehr gerne zu zweit besetzt werden
+Bei Fragen oder Interesse kannst du dich gerne bei Leggo (<span class="obfuscated-email" data-user="leggo"></span>) melden.
