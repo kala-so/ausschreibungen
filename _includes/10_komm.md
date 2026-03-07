@@ -51,7 +51,7 @@ Bi Frage darfsch di gern bir Arwen (<span class="obfuscated-email" data-user="ar
 
 **Idealerweise bringst du mit**
 
-Insgeheim bist du ein*e Hacker*in, brauchst aber noch einen Ort, wo du diese Leidenschaft ausleben kannst. Du träumst in Formatierungscodes und denkst in Python oder einer anderen Programmiersprache.
+Insgeheim bist du ein\*e Hacker\*in, brauchst aber noch einen Ort, wo du diese Leidenschaft ausleben kannst. Du träumst in Formatierungscodes und denkst in Python oder einer anderen Programmiersprache.
 
 **Gut zu wissen**
 

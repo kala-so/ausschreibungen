@@ -13,7 +13,7 @@ title: KaLa
 <h2>Offene Aufgaben – Wo kannst du mitanpacken?</h2>
 <p>Hier findest du laufend neue Aufgaben in verschiedensten Bereichen.
 Schau regelmässig vorbei, such dir eine passende Aufgabe aus und werde Teil des Teams!<br>
-👉 Tipp: Schnapp dir deine liebsten Pfadi-Freund*innen und meldet euch gemeinsam – denn zusammen
+👉 Tipp: Schnapp dir deine liebsten Pfadi-Freund\*innen und meldet euch gemeinsam – denn zusammen
 macht die Vorbereitung noch mehr Spass und wird zu einem weiteren unvergesslichen Pfadi-Abenteuer.</p>
 
 <p>👇 Klicke auf ein Ressort, um die Rollen anzuzeigen.</p>

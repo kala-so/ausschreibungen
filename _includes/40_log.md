@@ -1,4 +1,4 @@
-## Bereichsmitarbeiter*in Infrastruktur (Wasser/Sanitäres)
+## Bereichsmitarbeiter\*in Infrastruktur (Wasser/Sanitäres)
 
 ### Aufgaben
 
