@@ -25,6 +25,38 @@
 
 Bei Interesse und Fragen kannst du dich gerne bei Magellan melden (<span class="obfuscated-email" data-user="magellan"></span>)
 
+---
+
+## Co-Bereichsleitung Lagerbau
+
+### Aufgaben
+
+**Vor dem Lager**
+
+* Planung Bodenschutzmassnahmen
+* Erarbeiten von einem Leitfaden für die Lagerbauten der Einheiten
+* Abnahme der Lagerbauplanungen der Einheiten
+
+**Während dem Lager**
+
+* Koordination der Abnahme der Lagerbauten
+* Umsetzung Bodenschutzmassnahmen
+
+**Nach dem Lager**
+
+* Koordination der Abgabe der Einheitsplätze
+* Debriefing
+
+### Idealerweise bringst du mit
+
+Erfahrung mit (grossen) Pionierbauten
+Umgang und Einhalten von Bodenschutzmassnahmen
+
+### Gut zu wissen
+
+Bei Interesse und Fragen, kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
+Startzeit: Sommer 2028
+
 --- 
 
 ## Co-Bereichsleitung Material
@@ -52,7 +84,36 @@ Bei Interesse und Fragen kannst du dich gerne bei Magellan melden (<span class="
 Die Rolle ist bereits teilweise besetzt – gesucht wird noch eine zweite Person für die Co-Leitung.
 Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
 
---- 
+---
+
+## Co-Bereichsleitung Transport
+
+### Aufgaben
+
+**Vor dem Lager**
+
+* Planung der An- & Abreise der Einheiten
+* Planung und Koordination von internen und externen Materialtransporten
+
+**Während dem Lager**
+
+* Koordination Transport
+* Koordination Materialtransporte
+
+**Nach dem Lager**
+
+* Debriefing
+
+### Idealerweise bringst du mit
+
+* Fahrerlaubnis für Stapler
+
+### Gut zu wissen
+
+Bei Interesse und Fragen, kannst du dich gerne bei Leggo (<span class="obfuscated-email" data-user="leggo"></span>) melden.
+
+---
+
 ## Co-Bereichsleitung Recycling & Entsorgung
 
 ### Aufgaben
