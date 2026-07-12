@@ -27,7 +27,7 @@ Bei Interesse und Fragen kannst du dich gerne bei Magellan melden (<span class="
 
 --- 
 
-## Bereichsleitung Material
+## Co-Bereichsleitung Material
 
 ### Aufgaben
 
@@ -49,63 +49,11 @@ Bei Interesse und Fragen kannst du dich gerne bei Magellan melden (<span class="
 
 ### Gut zu wissen
 
-Das Jöbli kann gut auch zu zweit gemacht werden.
-Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
-
----
-
-## Bereichsleitung Verpflegung
-
-### Aufgaben
-
-**Vor dem Lager**
-
-* Verpflegungskonzept erarbeiten
-* Offerten einholen
-* Verpflegungslogistik aufbauen (Bestellung Lebensmittel, Planung Essensausgabe)
-* Menüplanung und Mengenberechnung
-
-**Während dem Lager**
-
-* Koordination Verpflegungslogistik
-* Koordination Essensausgabe
-
-**Nach dem Lager**
-
-* Abschluss mit Vertragspartnern
-* Debriefing
-
-### Idealerweise bringst du mit
-
-* Erfahrung im Bereich Grossküche / Catering
-* Erfahrung mit Menüplanung in Lagerküchen
-
-### Gut zu wissen
-
-Der Job darf sehr gerne zu zweit besetzt werden.
-Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
-
----
-
-## Bereichsleitung Post
-
-### Aufgaben
-
-**Vor dem Lager**
-
-* Absprache mit der Post
-* Planung Post
-* Organisation interne Post
-
-**Während dem Lager**
-
-* Verteilung Briefe & Päckli
-
-### Gut zu wissen
+Die Rolle ist bereits teilweise besetzt – gesucht wird noch eine zweite Person für die Co-Leitung.
 Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
 
 --- 
-## Bereichsleitung Recycling & Entsorgung
+## Co-Bereichsleitung Recycling & Entsorgung
 
 ### Aufgaben
 
@@ -124,5 +72,5 @@ Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfusca
 
 ### Gut zu wissen
 
-Der Job darf sehr gerne zu zweit besetzt werden
+Die Rolle ist bereits teilweise besetzt – gesucht wird noch eine zweite Person für die Co-Leitung.
 Bei Fragen oder Interesse kannst du dich gerne bei Leggo (<span class="obfuscated-email" data-user="leggo"></span>) melden.

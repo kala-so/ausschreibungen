@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# JetBrains IDE
+.idea/
+*.iml
+
+# Jekyll build/output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# Node dependencies (if used for tooling)
+node_modules/
+
