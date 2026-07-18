@@ -1,25 +1,28 @@
-## Co-Ressortleitung Finanzen
+## Co-Ressortleitung Finanzen / Sponsoring
 
 ### Aufgaben
 
 **Vor dem Lager**
 
 * Gesamtverantwortung für die finanzielle Planung des Lagers
-* Gesamtplanung und Aufbau des Ressorts Finanzen in enger Abstimmung mit dem Vorstand
 * Sicherstellung der Jahresrechnungen des Vereins in Abstimmung mit dem Vorstand
 * Finanzprozesse zusammen mit den Bereichen definieren
-* Erarbeitung des Spesenreglements
+* Sponsoringkonzept erarbeiten
+* Dossier erstellen
+* Sponsoren akquirieren und Vereinbarungen treffen
 
 **Während dem Lager**
 
-* Teil der Lagerleitung
 * Finanzielle Übersicht behalten
 * Ansprechperson für die Lagerleitung und Bereiche
 * Unterstützung der Bereiche
+* Betreuung von Sponsoren
+* Sicherstellen der vereinbarten Gegenleistungen
 
 **Nach dem Lager**
 
 * Finanzen abschliessen
+* Verdankung und Abschlusskommunikation
 * Debriefings mit Bereichen
 * Ressort-Auswertung und Dokumentation
 
@@ -27,42 +30,13 @@
 
 * Du arbeitest strukturiert und übernimmst gerne Verantwortung.
 * Erfahrung im Finanzbereich ist von Vorteil.
-
-### Gut zu wissen
-
-* Perfekt geeignet für ein eingespieltes Duo mit Zahlenflair. Kann in Co-Leitung und als Stabsstelle übernommen werden.
-* Melde dich bei Fragen bei Biber (<span class="obfuscated-email" data-user="biber"></span>).
-
----
-
-## Sponsoring
-
-### Aufgaben
-
-**Vor dem Lager**
-
-* Sponsoringkonzept erarbeiten
-* Dossier erstellen
-* Sponsoren akquirieren und Vereinbarungen treffen
-
-**Während dem Lager**
-
-* Betreuung von Sponsoren
-* Sicherstellen der vereinbarten Gegenleistungen
-
-**Nach dem Lager**
-
-* Verdankung und Abschlusskommunikation
-
-### Idealerweise bringst du mit
-
 * Freude am Netzwerken und Kommunizieren
 * Kreativität bei Gegenleistungen
 
 ### Gut zu wissen
 
-* Kann zu zweit oder im Team übernommen werden.
 * Du trägst direkt dazu bei, den Lagerbeitrag tief zu halten 💪
+* Die Co-Ressortleitung ist bereits teilweise besetzt – gesucht wird noch eine zweite Person oder jemand fürs Sponsoring. Die Rolle lässt sich noch gestalten.
 * Melde dich bei Fragen bei Biber (<span class="obfuscated-email" data-user="biber"></span>).
 
 ---
