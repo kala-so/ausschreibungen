@@ -198,36 +198,3 @@
 * Das Roverfest ist ein Dankesanlass, der nach dem Lager stattfinden soll. Während dem Lager hast du Zeit für anderes.
 * Perfekt als Projekt für ein motiviertes Team.
 * Fragen oder Interesse? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
-
----
-
-## Beiz
-
-### Aufgaben
-
-**Vor dem Lager**
-
-* Infrastruktur, Angebot & Organisation
-* Rechtliche Abklärungen
-* Budget und Abrechnungssystem
-
-**Während dem Lager**
-
-* Betrieb der Roverbeiz
-* Einsätze koordinieren
-
-**Nach dem Lager**
-
-* Abrechnung
-* Rückbau
-
-### Idealerweise bringst du mit
-
-* Du hast Lust, einen gemütlichen Ort für die Rover zu gestalten.
-* Erfahrung in der Gastro
-
-### Gut zu wissen
-
-* Ideal für ein kleines Rovergrüppli.
-* Fragen oder Interesse? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
-
