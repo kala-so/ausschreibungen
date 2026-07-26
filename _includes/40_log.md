@@ -114,6 +114,39 @@ Bei Interesse und Fragen, kannst du dich gerne bei Leggo (<span class="obfuscate
 
 ---
 
+## Bereichsleitung Verpflegung
+
+### Aufgaben
+
+**Vor dem Lager**
+
+* Verpflegungskonzept erarbeiten
+* Offerten einholen
+* Verpflegungslogistik aufbauen (Bestellung Lebensmittel, Planung Essensausgabe)
+* Menüplanung und Mengenberechnung
+
+**Während dem Lager**
+
+* Koordination Verpflegungslogistik
+* Koordination Essensausgabe
+
+**Nach dem Lager**
+
+* Abschluss mit Vertragspartnern
+* Debriefing
+
+### Idealerweise bringst du mit
+
+* Erfahrung im Bereich Grossküche / Catering
+* Erfahrung mit Menüplanung in Lagerküchen
+
+### Gut zu wissen
+
+Der Job darf sehr gerne zu zweit besetzt werden.
+Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
+
+---
+
 ## Co-Bereichsleitung Recycling & Entsorgung
 
 ### Aufgaben
