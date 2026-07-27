@@ -143,7 +143,7 @@ Bei Interesse und Fragen, kannst du dich gerne bei Leggo (<span class="obfuscate
 ### Gut zu wissen
 
 Der Job darf sehr gerne zu zweit besetzt werden.
-Bei Interesse und Fragen kannst du dich gerne bei Magellan (<span class="obfuscated-email" data-user="magellan"></span>) melden.
+Bei Interesse und Fragen kannst du dich gerne bei Leggo (<span class="obfuscated-email" data-user="leggo"></span>) melden.
 
 ---
 
