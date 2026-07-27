@@ -31,7 +31,7 @@
 
 * Wir prüfen, ob Aufgaben in eurem Ressort an eine bezahlte Seki-Stelle abgegeben werden können.
 * Perfekt geeignet für ein eingespieltes Duo
-* Fragen oder Interesse? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
+* Fragen oder Interesse? Melde dich bei Feivel (<span class="obfuscated-email" data-user="feivel"></span>).
 
 --- 
 
@@ -67,7 +67,7 @@
 ### Gut zu wissen
 
 * Perfekt geeignet für ein Rovergrüppli oder motiviertes Zweierteam.
-* Fragen oder Interesse? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
+* Fragen oder Interesse? Melde dich bei Feivel (<span class="obfuscated-email" data-user="feivel"></span>).
 
 ---
 
@@ -102,7 +102,7 @@
 ### Gut zu wissen
 
 * Perfekt geeignet für ein Rovergrüppli oder motiviertes Zweierteam.
-* Fragen oder Interesse? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
+* Fragen oder Interesse? Melde dich bei Feivel (<span class="obfuscated-email" data-user="feivel"></span>).
 
 ---
 
@@ -135,7 +135,7 @@
 ### Gut zu wissen
 
 * Du arbeitest eng mit den Bereichen Design & Merch, Verpflegung und Einheitenbetreuung zusammen.
-* Fragen oder Interesse? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
+* Fragen oder Interesse? Melde dich bei Feivel (<span class="obfuscated-email" data-user="feivel"></span>).
 
 ---
 
@@ -168,7 +168,7 @@
 ### Gut zu wissen
 
 * Wir wissen noch nicht, wie Familien die KaLa-Kita nutzen möchten. Nach einer "Bedarfsabklärung" wird über die Gestaltung der Kita entschieden.
-* Fragen oder Interesse? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
+* Fragen oder Interesse? Melde dich bei Feivel (<span class="obfuscated-email" data-user="feivel"></span>).
 
 ---
 
@@ -197,4 +197,4 @@
 
 * Das Roverfest ist ein Dankesanlass, der nach dem Lager stattfinden soll. Während dem Lager hast du Zeit für anderes.
 * Perfekt als Projekt für ein motiviertes Team.
-* Fragen oder Interesse? Melde dich bei Faj (<span class="obfuscated-email" data-user="faj"></span>).
+* Fragen oder Interesse? Melde dich bei Feivel (<span class="obfuscated-email" data-user="feivel"></span>).
