@@ -159,37 +159,3 @@ Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class
 ### Gut zu wissen
 
 Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
-
----
-
-## Bereichsleitung Lageverfolgung
-
-### Aufgaben
-
-**Vor dem Lager**
-
-* Mitarbeit an den Konzepten für den Bereich Lageverfolgung
-* Absprachen mit anderen Bereichen und Ressorts
-* Regelmässige Teilnahme an den Ressortsitzungen Sanität & Sicherheit
-
-**Während dem Lager**
-
-* Leitung und Koordination des Bereichs Lageverfolgung
-* Sammeln und Aufbereiten von Informationen aller Art für die Lagerleitung
-* Verfolgung und Analyse von Wetterverhältnissen und Naturgefahren
-* Unterhalt der Führungswand / des Lageverfolgungszentrums
-* Gegebenenfalls Einsitz im Krisenstab
-
-**Nach dem Lager**
-
-* Debriefing
-
-### Idealerweise bringst du mit
-
-* Gute Organisationsfähigkeit
-* Erfahrung in der Lageverfolgung (Polizei / Feuerwehr / Zivilschutz / Sanität / Militär)
-* Erfahrung mit Meteorologie / Umweltgefahren
-
-### Gut zu wissen
-
-Bei Interesse oder Fragen kannst du dich sehr gerne bei Smok melden. <span class="obfuscated-email" data-user="smok"></span>
